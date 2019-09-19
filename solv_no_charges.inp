@@ -1,0 +1,6 @@
+### INPUT STARTS HERE ###
+! B3LYP def2-SVP Opt
+*xyzfile 0 1 gly_no_charges.xyz
+! CPCM(Water)
+###  INPUT ENDS HERE  ###
+
